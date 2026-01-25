@@ -1,0 +1,6 @@
+[submodule "AMI-Entregas"]
+	path = AMI-Entregas
+	url = https://github.com/itzi97/AMI-entregas
+[submodule "AMII-Entregas"]
+	path = AMII-Entregas
+	url = https://github.com/itzi97/AMII-entregas
